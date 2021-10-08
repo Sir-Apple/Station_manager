@@ -1,0 +1,15 @@
+
+/////////////////////
+	  MT ASSETS
+	  CHANGELOG
+/////////////////////
+
+v1.0.0
+	- The Native Android Debugger has just been released! I will always be working to support and add new features!
+	  Do you have any suggestions, Bug reports or any problems with using this asset? Contact by email!
+	  (mtassets@windsoft.xyz)
+
+/////////////////////
+  Email for support
+mtassets@windsoft.xyz
+/////////////////////
