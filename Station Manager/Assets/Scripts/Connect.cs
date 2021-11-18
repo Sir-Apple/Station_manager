@@ -80,6 +80,23 @@ namespace ConnectServer
             return feedback;
         }
 
+        public static string UpdateInfo(string URL, string newValue, string oldValue)
+        {
+            string feedback = string.Empty;
+
+            var postInfo = new NameValueCollection
+            {
+                { "newStation", newValue },
+                { "tuananh", oldValue},
+            };
+
+            byte[] result = UploadFiles(URL, null, postInfo);
+            feedback = Encoding.UTF8.GetString(result, 0, result.Length);
+            Debug.Log(feedback);
+
+            return feedback;
+        }
+
         public static string UploadRandomFile(string URL, string filePath, string username, string token)
         {
             string feedback = string.Empty;
