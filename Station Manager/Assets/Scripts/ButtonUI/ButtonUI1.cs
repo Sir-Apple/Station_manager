@@ -16,6 +16,6 @@ public class ButtonUI1 : MonoBehaviour
 
     public void AddMaskk()
     {
-        CloneObject.CloneObjectInList(childObject, parentObject, _textInputField.GetComponent<TMPro.TextMeshProUGUI>().text);
+        CloneObject1.CloneObjectInList1(childObject, parentObject, _textInputField.GetComponent<TMPro.TextMeshProUGUI>().text);
     }
 }
