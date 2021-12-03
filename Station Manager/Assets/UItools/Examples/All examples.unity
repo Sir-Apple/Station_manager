@@ -5209,7 +5209,7 @@ MonoBehaviour:
   - {fileID: 0}
   currentStateId: 0
   defaultStateId: 0
-  previousStateId: 1
+  previousStateId: 0
   statesUiMode: 0
   isEditorStatesUiExpanded: 0
   OnStateChange:
@@ -6726,7 +6726,7 @@ MonoBehaviour:
   - {fileID: 0}
   currentStateId: 0
   defaultStateId: 0
-  previousStateId: 1
+  previousStateId: 0
   statesUiMode: 0
   isEditorStatesUiExpanded: 0
   OnStateChange:
@@ -13546,7 +13546,7 @@ MonoBehaviour:
   - {fileID: 0}
   currentStateId: 0
   defaultStateId: 0
-  previousStateId: 1
+  previousStateId: 0
   statesUiMode: 0
   isEditorStatesUiExpanded: 0
   OnStateChange:
